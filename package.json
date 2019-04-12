@@ -1,0 +1,11 @@
+{
+  "name": "bvalid",
+  "version": "0.0.1",
+  "description": "Bicycle driven json schema/validator",
+  "main": "bvalid.js",
+  "scripts": {
+    "test": "\"echo 'No tests'\""
+  },
+  "author": "crutchmaster",
+  "license": "ISC"
+}
